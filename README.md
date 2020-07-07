@@ -7,6 +7,7 @@ InstaPhoto adalah sebuah program command-line yang berguna untuk mengundung semu
 ## Installation
 ### English Language
 if you use Pycharm IDE you need `pip` for get module `instaloader` from pypi
-> pip install instaloader
+> $ pip install instaloader
+
 if you use Terminal you can `pip3`, that is python module version 3 and you need python module `instaloader`
-> pip3 install instaloader
+> $ pip3 install instaloader
