@@ -1,5 +1,5 @@
 read -p "Username target(ex:lenovix123): @" Uname
-echo Please Wait...
+echo Connecting...
 instaloader profile $Uname
 clear
 echo '========================================'

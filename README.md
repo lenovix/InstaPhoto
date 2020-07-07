@@ -8,7 +8,7 @@ InstaPhoto adalah sebuah program command-line yang berguna untuk mengundung semu
 ```
 pip / pip3
 python3
-instaloader
+instaloader module
 ```
 
 ## Installation
@@ -21,7 +21,18 @@ Anda bisa download project saya, atau anda bisa clone project saya melalu termin
 > $ git clone https://github.com/lenovix/InstaPhoto.git
 
 ## How to Use
+### English Language
+After you clone my repo, type this command in your terminal
 ```
 cd InstaPhoto/
 bash setup.sh
+bash instaphoto.sh
+```
+
+### Indonesia Language
+Setelah anda clone project saya, ketik perintah ini di terminal anda
+```
+cd InstaPhoto/
+bash setup.sh
+bash instaphoto.sh
 ```
