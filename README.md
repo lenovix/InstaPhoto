@@ -4,10 +4,24 @@ InstaPhoto is some program with command-line, the function this program to Downl
 ### Indonesia Language
 InstaPhoto adalah sebuah program command-line yang berguna untuk mengundung semua foto di akun target
 
+## Requirment
+```
+pip / pip3
+python3
+instaloader
+```
+
 ## Installation
 ### English Language
-if you use Pycharm IDE you need `pip` for get module `instaloader` from pypi
-> $ pip install instaloader
+You can download my reposity, or you can clone my repo in terminal
+> $ git clone https://github.com/lenovix/InstaPhoto.git
 
-if you use Terminal you can `pip3`, that is python module version 3 and you need python module `instaloader`
-> $ pip3 install instaloader
+### Indonesia Language
+Anda bisa download project saya, atau anda bisa clone project saya melalu terminal
+> $ git clone https://github.com/lenovix/InstaPhoto.git
+
+## How to Use
+```
+cd InstaPhoto/
+bash setup.sh
+```
