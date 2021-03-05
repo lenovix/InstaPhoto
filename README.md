@@ -1,4 +1,4 @@
-# InstaPhoto v1.0
+# InstaPhoto v0.1
 ### English Language
 InstaPhoto is some program with command-line, the function this program to Download/get all photo in Account target
 ### Indonesia Language
