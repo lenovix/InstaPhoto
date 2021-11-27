@@ -53,3 +53,5 @@ cd InstaPhoto/
 bash setup.sh
 bash instaphoto.sh
 ```
+
+![Screenshot InstaPhoto](https://github.com/lenovix/InstaPhoto/blob/master/img/sc1.PNG)
